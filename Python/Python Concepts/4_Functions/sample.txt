@@ -1,0 +1,1 @@
+This is the first file, created for learning python functions in python fundamentals, Markdown is the best file if we can frequency in running time, i am learning Azure ADF, and have installed Azure Integration runtime.
