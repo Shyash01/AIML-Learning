@@ -1,0 +1,2 @@
+Checking w+ mode
+Second line for checking
